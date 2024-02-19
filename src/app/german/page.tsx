@@ -3,37 +3,37 @@ import Link from "next/link"
 
 const rutas = [
   {
-    link : "Desayunos",
-    href: "/spanish/desayunos"
+    link : "Frühstück",
+    href: "/german/fruhstuck"
   },
   {
-    link : "Bocadillos / Bagels / Tostas",
-    href: "/spanish/bocadillos"
+    link : "Sandwich / Bagels / Toasts",
+    href: "/german/sandwichs"
   },
   {
-    link : "Tablas",
-    href: "/spanish/tablas"
+    link : "Käsebrett",
+    href: "/german/kasebrett"
   },
   {
-    link : "Ensaladas",
-    href: "/spanish/ensaladas"
+    link : "Salate",
+    href: "/german/salate"
   },
   {
-    link : "Entrantes Calientes",
-    href: "/spanish/calientes"
+    link : "Heiße Vorspeisen",
+    href: "/german/vorspeisen"
   },
   {
-    link : "Dipear",
-    href: "/spanish/dipear"
+    link : "Dippen",
+    href: "/german/dippen"
   },
   {
-    link : "Postre",
-    href: "/spanish/postre"
+    link : "Nachspeisen",
+    href: "/german/nachspeisen"
   },
   
 ]
 
-export default function Spanish() {
+export default function German() {
   return (
     <div className="flex items-center justify-center">
       <div className="flex flex-col items-center w-full md:w-2/3 gap-1">

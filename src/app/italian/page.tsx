@@ -3,37 +3,37 @@ import Link from "next/link"
 
 const rutas = [
   {
-    link : "Desayunos",
-    href: "/spanish/desayunos"
+    link : "Colazione",
+    href: "/italian/colazione"
   },
   {
-    link : "Bocadillos / Bagels / Tostas",
-    href: "/spanish/bocadillos"
+    link : "Panino / Bagel / Toast",
+    href: "/italian/panino"
   },
   {
-    link : "Tablas",
-    href: "/spanish/tablas"
+    link : "Tagliere",
+    href: "/italian/tagliere"
   },
   {
-    link : "Ensaladas",
-    href: "/spanish/ensaladas"
+    link : "Insalate",
+    href: "/italian/insalate"
   },
   {
-    link : "Entrantes Calientes",
-    href: "/spanish/calientes"
+    link : "Antipasti caldi",
+    href: "/italian/caldi"
   },
   {
-    link : "Dipear",
-    href: "/spanish/dipear"
+    link : "Dips",
+    href: "/italian/dips"
   },
   {
-    link : "Postre",
-    href: "/spanish/postre"
+    link : "Dolci",
+    href: "/italian/dolci"
   },
   
 ]
 
-export default function Spanish() {
+export default function Italian() {
   return (
     <div className="flex items-center justify-center">
       <div className="flex flex-col items-center w-full md:w-2/3 gap-1">
