@@ -32,7 +32,7 @@ function LanguagesLinks() {
           alt={language}
           width={30}
           height={30}
-          className={cn("opacity-50", pathname.includes(language) && "opacity-100")}
+          className={cn("opacity-50", (pathname.includes(language) || (pathname === "/" && language === "spanish")) && "opacity-100")}
         />
       </Link>
     </div>
