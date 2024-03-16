@@ -4,31 +4,31 @@ const vorspeisen = [
   {
     title: "Im Wok gebratener Burrito aus Rindfleisch und Gemüse mit Soja- und Senfdressing.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmBurrTern.png",
     allergens: ['G', 'L','S', 'M', 'H']
   },
   {
     title: "Burrito mit Hähnchenfleisch, geräuchertem Käse und roter Mojo-Mayonnaise.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmBurrChick.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Rindfleisch-Burger mit frischem Salat, Gurken und kanarischem Käse.",
     price: 10,
-    src: "/santaana.png",
+    src: "/SmBurger.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Bao-Brot mit Huhn aus Freilandhaltung und kanarischem Käse.",
     price: 12,
-    src: "/santaana.png",
+    src: "/SmBao.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Zerknitterte Kartoffeln mit grüner und roter Soße auf kanarische Art.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmPotato.png",
     allergens: ['G', 'F']
   },
 ]

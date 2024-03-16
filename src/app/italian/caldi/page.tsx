@@ -4,31 +4,31 @@ const caldi = [
   {
     title: "Burrito di manzo e verdure fritto al wok con salsa di soia e senape",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmBurrTern.png",
     allergens: ['G', 'L','S', 'M', 'H']
   },
   {
     title: "Burrito di pollo rustico, formaggio stagionato e maionese al mojo rosso.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmBurrChick.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Hamburger di manzo con insalata fresca, cetriolini e formaggio canario.",
     price: 10,
-    src: "/santaana.png",
+    src: "/SmBurger.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Pane Bao con pollo ruspante e formaggio delle Canarie.",
     price: 12,
-    src: "/santaana.png",
+    src: "/SmBao.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Patate rugose con salsa verde e rossa canaria.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmPotato.png",
     allergens: ['G', 'F']
   },
 ]

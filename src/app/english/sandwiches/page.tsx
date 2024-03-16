@@ -12,7 +12,7 @@ const sandwiches = [
     title: "Iberian ham 50% and Manchego cheese.",
     price: 4.9,
     secondPrice: 2.8,
-    src: "/santaana.png",
+    src: "/SmBocHamChees.png",
     allergens: ['G', 'L']
   },
 ]
@@ -21,13 +21,13 @@ const bagels = [
   {
     title: "Smoked salmon bagel, cream cheese and honey lettuce.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmBagSal.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Iberian ham bagel and fresh salad with smoked cheese.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmBagHam.png",
     allergens: ['G', 'L']
   },
 ]
@@ -36,25 +36,25 @@ const toasts = [
   {
     title: "Canarian toast of almogrote, roasted leg and tumaca.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmToastCanary.png",
     allergens: ['G', 'L']
   },
   {
     title: "Tuna, avocado and Canarian cheese toast.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmToastTuna.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Catalan toast with tumaca and Iberian ham.",
     price: 6.5,
-    src: "/santaana.png",
+    src: "/SmToastHam.png",
     allergens: ['G']
   },
   {
     title: "Toast with peanut butter, canary banana, red apple, honey, cinnamon and chia seeds.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmToastCacah.png",
     allergens: ['G', 'F']
   },
 ]

@@ -5,7 +5,7 @@ export default function Dips() {
     {
       title: "Nachos con guacamole km 0 e salsa cheddar.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmNachos.png",
       allergens: ['G', 'L']
     },
     {
@@ -17,7 +17,7 @@ export default function Dips() {
     {
       title: "Hummus con pane pita.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmDipHummus.png",
       allergens: ['G']
     },
   ]

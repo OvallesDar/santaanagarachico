@@ -4,31 +4,31 @@ const calientes = [
   {
     title: "Burrito de ternera y verduras wok con aliño de soja y mostaza.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmBurrTern.png",
     allergens: ['G', 'L','S', 'M', 'H']
   },
   {
     title: "Burrito de pollo campero, queso curado y mahonesa de mojo rojo.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmBurrChick.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Hamburguesa de ternera con ensalada fresca, pepinillos y queso canario.",
     price: 10,
-    src: "/santaana.png",
+    src: "/SmBurger.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Pan Bao de pollo campero y queso canario.",
     price: 12,
-    src: "/santaana.png",
+    src: "/SmBao.png",
     allergens: ['G', 'L', 'H']
   },
   {
     title: "Papas arrugadas con mojo verde y rojo.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmPotato.png",
     allergens: ['G', 'F']
   },
 ]

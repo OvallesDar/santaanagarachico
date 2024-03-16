@@ -4,7 +4,7 @@ const colazione = [
   {
     title: "Yogurt di capra, granola e frutta di stagione.",
     price: 5,
-    src: "/santaana.png",
+    src: "/SmDesYog.png",
     allergens: ['G', 'L', 'F']
   },
   {

@@ -4,7 +4,7 @@ const breakfasts = [
   {
     title: "Goat yoghurt, granola and seasonal fruit.",
     price: 5,
-    src: "/santaana.png",
+    src: "/SmDesYog.png",
     allergens: ['G', 'L', 'F']
   },
   {

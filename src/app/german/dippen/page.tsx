@@ -5,7 +5,7 @@ export default function Dippen() {
     {
       title: "Nachos mit Guacamole km 0 und Cheddar-Sauce.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmNachos.png",
       allergens: ['G', 'L']
     },
     {
@@ -17,7 +17,7 @@ export default function Dippen() {
     {
       title: "Hummus mit Fladenbrot.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmDipHummus.png",
       allergens: ['G']
     },
   ]

@@ -4,13 +4,13 @@ const insalate = [
   {
     title: "Insalata tiepida di pollo all'asiatica, pomodorini e vinaigrette alla frutta.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmSaladChick.png",
     allergens: ['G', 'S']
   },
   {
     title: "Insalata mista con avocado e polvere di noci.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmSaladAvoc.png",
     allergens: ['G', 'L', 'F']
   }
 ]

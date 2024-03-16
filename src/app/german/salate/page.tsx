@@ -4,13 +4,13 @@ const salate = [
   {
     title: "Warmer asiatischer Hühnersalat, Kirschtomaten und Fruchtvinaigrette.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmSaladChick.png",
     allergens: ['G', 'S']
   },
   {
     title: "Gemischter Salat mit Avocado und Nusspulver.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmSaladAvoc.png",
     allergens: ['G', 'L', 'F']
   }
 ]

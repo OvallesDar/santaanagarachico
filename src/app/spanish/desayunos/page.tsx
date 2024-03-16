@@ -4,7 +4,7 @@ const desayunos = [
   {
     title: "Yogurt de cabra, granola y fruta de temporada.",
     price: 5,
-    src: "/santaana.png",
+    src: "/SmDesYog.png",
     allergens: ['G', 'L', 'F']
   },
   {

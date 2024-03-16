@@ -5,7 +5,7 @@ export default function Trempette() {
     {
       title: "Nachos avec sauce guacamole km 0 et cheddar.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmNachos.png",
       allergens: ['G', 'L']
     },
     {
@@ -17,7 +17,7 @@ export default function Trempette() {
     {
       title: "Houmous avec pain pita.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmDipHummus.png",
       allergens: ['G']
     },
   ]

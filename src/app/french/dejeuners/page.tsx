@@ -4,7 +4,7 @@ const dejeuners = [
   {
     title: "Yaourt de chèvre, granola et fruits de saison.",
     price: 5,
-    src: "/santaana.png",
+    src: "/SmDesYog.png",
     allergens: ['G', 'L', 'F']
   },
   {

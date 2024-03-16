@@ -12,7 +12,7 @@ const panino = [
     title: "Prosciutto iberico 50% e formaggio Manchego.",
     price: 4.9,
     secondPrice: 2.8,
-    src: "/santaana.png",
+    src: "/SmBocHamChees.png",
     allergens: ['G', 'L']
   },
 ]
@@ -21,13 +21,13 @@ const bagels = [
   {
     title: "Bagel al salmone affumicato, crema di formaggio e lattuga al miele.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmBagSal.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Bagel al prosciutto iberico e insalata fresca con formaggio affumicato.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmBagHam.png",
     allergens: ['G', 'L']
   },
 ]
@@ -36,25 +36,25 @@ const toasts = [
   {
     title: "Toast canario di almogrote, coscia arrostita e tumaca.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmToastCanary.png",
     allergens: ['G', 'L']
   },
   {
     title: "Toast al tonno, avocado e formaggio delle Canarie.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmToastTuna.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Toast catalano con tumaca e prosciutto iberico.",
     price: 6.5,
-    src: "/santaana.png",
+    src: "/SmToastHam.png",
     allergens: ['G']
   },
   {
     title: "Toast con burro di arachidi, banana, mela rossa, miele, cannella e semi di chia.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmToastCacah.png",
     allergens: ['G', 'F']
   },
 ]

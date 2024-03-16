@@ -4,13 +4,13 @@ const salads = [
   {
     title: "Warm asian chicken salad, cherry tomatoes and fruit vinaigrette.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmSaladChick.png",
     allergens: ['G', 'S']
   },
   {
     title: "Mixed salad with avocado and nut powder.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmSaladAvoc.png",
     allergens: ['G', 'L', 'F']
   }
 ]

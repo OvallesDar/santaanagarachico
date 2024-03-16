@@ -12,7 +12,7 @@ const sandwichs = [
     title: "Iberischer Schinken 50% und Manchego-Käse.",
     price: 4.9,
     secondPrice: 2.8,
-    src: "/santaana.png",
+    src: "/SmBocHamChees.png",
     allergens: ['G', 'L']
   },
 ]
@@ -21,13 +21,13 @@ const bagels = [
   {
     title: "Bagel mit geräuchertem Lachs, Frischkäse und Honig-Salat.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmBagSal.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Bagel mit iberischem Schinken und frischem Salat mit geräuchertem Käse.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmBagHam.png",
     allergens: ['G', 'L']
   },
 ]
@@ -36,25 +36,25 @@ const toasts = [
   {
     title: "Kanarischer Toast mit Almogrote, gebratener Keule und Tumaca.",
     price: 7,
-    src: "/santaana.png",
+    src: "/SmToastCanary.png",
     allergens: ['G', 'L']
   },
   {
     title: "Thunfisch, Avocado und kanarischer Käsetoast.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmToastTuna.png",
     allergens: ['G', 'L', 'P']
   },
   {
     title: "Katalanisches Toastbrot mit Tumaca und iberischem Schinken.",
     price: 6.5,
-    src: "/santaana.png",
+    src: "/SmToastHam.png",
     allergens: ['G']
   },
   {
     title: "Toast mit Erdnussbutter, kanarischer Banane, rotem Apfel, Honig, Zimt und Chiasamen.",
     price: 6,
-    src: "/santaana.png",
+    src: "/SmToastCacah.png",
     allergens: ['G', 'F']
   },
 ]

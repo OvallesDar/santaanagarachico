@@ -1,3 +1,5 @@
+"use client"
+/* Check use client */
 import { cn } from "@/lib/utils";
 import Image from "next/image";
 
@@ -14,8 +16,8 @@ export default function CardProduct({title, price, secondPrice, allergens, src, 
   return (
     <div className="flex flex-col gap-2 mt-2">
     <div className={cn("flex bg-rose-100 rounded-sm h-40 md:h-32", index === false && "bg-rose-200")}>
-        <div className="w-2/6 flex justify-center items-center">
-            <Image src="/subs.png" alt="Plato" width={120} height={120} className="rounded-sm"/>
+        <div onClick={()=>{console.log("object")}} className="w-2/6 flex justify-center items-center cursor-pointer">
+            <Image src={`/menuImg${src}`} alt="Plato" width={120} height={120} className="rounded-sm"/>
         </div>
         <div className="w-3/6 flex flex-col justify-around p-2">
             <div><p>{title}</p></div>

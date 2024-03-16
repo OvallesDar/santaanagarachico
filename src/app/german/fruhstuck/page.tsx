@@ -4,7 +4,7 @@ const fruhstuck = [
   {
     title: "Ziegenjoghurt, Müsli und Obst der Saison.",
     price: 5,
-    src: "/santaana.png",
+    src: "/SmDesYog.png",
     allergens: ['G', 'L', 'F']
   },
   {

@@ -4,13 +4,13 @@ const ensaladas = [
   {
     title: "Ensalada templada de pollo asiatico, tomatitos cherry y vinagreta de frutas.",
     price: 8,
-    src: "/santaana.png",
+    src: "/SmSaladChick.png",
     allergens: ['G', 'S']
   },
   {
     title: "Ensalada mixta con aguacate y polvo de frutos secos.",
     price: 7.5,
-    src: "/santaana.png",
+    src: "/SmSaladAvoc.png",
     allergens: ['G', 'L', 'F']
   }
 ]
