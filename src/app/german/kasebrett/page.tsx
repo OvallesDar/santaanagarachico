@@ -4,7 +4,7 @@ const kasebrett = [
   {
     title: "Räucherlachsplatte mit Marmelade und verschiedenen Texturen.",
     price: 11.5,
-    src: "/santaana.png",
+    src: "/SmBoardSalmon.png",
     allergens: ['G', 'L', 'P', 'F']
   },
   {
@@ -16,7 +16,7 @@ const kasebrett = [
   {
     title: "Gemischte Käseplatte aus Teno Alto (je nach Verfügbarkeit in der Käserei).",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardCheese.png",
     allergens: ['G', 'L']
   },
   {
@@ -28,7 +28,7 @@ const kasebrett = [
   {
     title: "Kanarische gemischte Platte mit Teno Alto-Käse, gebratener Keule und Almogrote.",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardMixCanary.png",
     allergens: ['G', 'L', 'F']
   },
   {

@@ -1,4 +1,5 @@
 import CardProduct from "@/components/ui/CardProduct";
+import Image from "next/image";
 
 const desayunos = [
   {
@@ -10,7 +11,7 @@ const desayunos = [
   {
     title: "Porridge de avena, canela y frutas.",
     price: 3.9,
-    src: "/santaana.png",
+    src: "/SmDesPorridge.png",
     allergens: ['G', 'L', 'F']
   },
 ]

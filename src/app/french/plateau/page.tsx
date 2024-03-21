@@ -4,7 +4,7 @@ const plateau = [
   {
     title: "Planche de saumon fumé avec confiture et différentes textures.",
     price: 11.5,
-    src: "/santaana.png",
+    src: "/SmBoardSalmon.png",
     allergens: ['G', 'L', 'P', 'F']
   },
   {
@@ -16,7 +16,7 @@ const plateau = [
   {
     title: "Plateau de fromages assortis de Teno Alto (en fonction des disponibilités à la fromagerie).",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardCheese.png",
     allergens: ['G', 'L']
   },
   {
@@ -28,7 +28,7 @@ const plateau = [
   {
     title: "Planche mixte canarienne avec fromages de Teno Alto, jambon rôti et almogrote.",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardMixCanary.png",
     allergens: ['G', 'L', 'F']
   },
   {

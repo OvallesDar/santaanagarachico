@@ -4,7 +4,7 @@ const tagliere = [
   {
     title: "Tagliere di salmone affumicato con marmellata e diverse consistenze.",
     price: 11.5,
-    src: "/santaana.png",
+    src: "/SmBoardSalmon.png",
     allergens: ['G', 'L', 'P', 'F']
   },
   {
@@ -16,7 +16,7 @@ const tagliere = [
   {
     title: "Tagliere di formaggi assortiti di Teno Alto (secondo la disponibilità del caseificio).",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardCheese.png",
     allergens: ['G', 'L']
   },
   {
@@ -28,7 +28,7 @@ const tagliere = [
   {
     title: "Tagliere misto canario con formaggi del Teno Alto, coscia arrosto e almogrote.",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardMixCanary.png",
     allergens: ['G', 'L', 'F']
   },
   {

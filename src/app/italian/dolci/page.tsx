@@ -11,7 +11,7 @@ const dolci = [
     title: "Torte (fatte in casa)",
     price: 3.5,
     secondPrice: 3.75,
-    src: "/santaana.png",
+    src: "/SmCake.png",
     allergens: ['G','H', 'L', 'F', 'S', 'Z']
   },
 ]

@@ -4,7 +4,7 @@ const boards = [
   {
     title: "Smoked salmon board with jam and different textures.",
     price: 11.5,
-    src: "/santaana.png",
+    src: "/SmBoardSalmon.png",
     allergens: ['G', 'L', 'P', 'F']
   },
   {
@@ -16,7 +16,7 @@ const boards = [
   {
     title: "Assorted cheese board from Teno Alto (depending on availability at the cheese factory).",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardCheese.png",
     allergens: ['G', 'L']
   },
   {
@@ -28,7 +28,7 @@ const boards = [
   {
     title: "Canarian mixed board with Teno Alto cheeses, roast leg and almogrote.",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardMixCanary.png",
     allergens: ['G', 'L', 'F']
   },
   {

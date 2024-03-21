@@ -1,4 +1,5 @@
 "use client";
+import Transtition from "@/components/ui/Transtition";
 import { ArrowBigLeft } from "lucide-react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
@@ -18,7 +19,7 @@ export default function LayoutMenu({
           <ArrowBigLeft className="text-[#613527]" />
           Retour
         </Link>
-        {children}
+        <Transtition>{children}</Transtition>
       </div>
     </div>
   );

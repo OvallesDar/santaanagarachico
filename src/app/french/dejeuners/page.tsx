@@ -10,7 +10,7 @@ const dejeuners = [
   {
     title: "Porridge aux flocons d'avoine, à la cannelle et aux fruits.",
     price: 3.9,
-    src: "/santaana.png",
+    src: "/SmDesPorridge.png",
     allergens: ['G', 'L', 'F']
   },
 ]

@@ -10,7 +10,7 @@ const breakfasts = [
   {
     title: "Oatmeal, cinnamon and fruit porridge.",
     price: 3.9,
-    src: "/santaana.png",
+    src: "/SmDesPorridge.png",
     allergens: ['G', 'L', 'F']
   },
 ]

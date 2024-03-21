@@ -10,7 +10,7 @@ const colazione = [
   {
     title: "Porridge di farina d'avena, cannella e frutta.",
     price: 3.9,
-    src: "/santaana.png",
+    src: "/SmDesPorridge.png",
     allergens: ['G', 'L', 'F']
   },
 ]

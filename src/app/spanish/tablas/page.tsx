@@ -4,7 +4,7 @@ const tablas = [
   {
     title: "Tabla de salmón ahumado con confitura y diferentes texturas.",
     price: 11.5,
-    src: "/santaana.png",
+    src: "/SmBoardSalmon.png",
     allergens: ['G', 'L', 'P', 'F']
   },
   {
@@ -16,7 +16,7 @@ const tablas = [
   {
     title: "Tabla de queso variado de Teno alto (Según disponibilidad de la quesería).",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardCheese.png",
     allergens: ['G', 'L']
   },
   {
@@ -28,7 +28,7 @@ const tablas = [
   {
     title: "Tabla mixta canaria con quesos, pata asada y almogrote.",
     price: 13.5,
-    src: "/santaana.png",
+    src: "/SmBoardMixCanary.png",
     allergens: ['G', 'L', 'F']
   },
   {

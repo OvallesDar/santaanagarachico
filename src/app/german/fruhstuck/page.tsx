@@ -10,7 +10,7 @@ const fruhstuck = [
   {
     title: "Haferflocken, Zimt und Früchtebrei.",
     price: 3.9,
-    src: "/santaana.png",
+    src: "/SmDesPorridge.png",
     allergens: ['G', 'L', 'F']
   },
 ]
