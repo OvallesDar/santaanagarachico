@@ -5,7 +5,7 @@ const sandwiches = [
     title: "Jambon ibérique 50%, AVOE et origan.",
     price: 4.5,
     secondPrice: 2.5,
-    src: "/santaana.png",
+    src: "/SmBocHam.png",
     allergens: ['G']
   },
   {

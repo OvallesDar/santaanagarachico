@@ -5,7 +5,7 @@ const panino = [
     title: "Prosciutto iberico 50%, AVOE e origano.",
     price: 4.5,
     secondPrice: 2.5,
-    src: "/santaana.png",
+    src: "/SmBocHam.png",
     allergens: ['G']
   },
   {

@@ -22,7 +22,7 @@ const tablas = [
   {
     title: "Tabla de jamón 50% ibérico y quesos variados de Teno Alto.",
     price: 15.5,
-    src: "/santaana.png",
+    src: "/SmBoardHamAndChees.png",
     allergens: ['G', 'L']
   },
   {

@@ -22,7 +22,7 @@ const plateau = [
   {
     title: "Planche de jambon ibérique et d'assortiment de fromages de Teno Alto à 50 %.",
     price: 15.5,
-    src: "/santaana.png",
+    src: "/SmBoardHamAndChees.png",
     allergens: ['G', 'L']
   },
   {

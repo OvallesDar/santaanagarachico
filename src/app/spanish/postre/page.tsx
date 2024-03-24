@@ -4,7 +4,7 @@ const postres = [
   {
     title: "Coulant de chocolate con helado de canela y polvo de nueces.",
     price: 5.5,
-    src: "/santaana.png",
+    src: "/SmCoulant.png",
     allergens: ['G', 'L', 'F']
   },
   {

@@ -5,7 +5,7 @@ const sandwichs = [
     title: "Iberischer Schinken 50%, AVOE und Oregano.",
     price: 4.5,
     secondPrice: 2.5,
-    src: "/santaana.png",
+    src: "/SmBocHam.png",
     allergens: ['G']
   },
   {

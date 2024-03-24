@@ -22,7 +22,7 @@ const boards = [
   {
     title: "50% Iberian ham and assorted cheeses board from Teno Alto.",
     price: 15.5,
-    src: "/santaana.png",
+    src: "/SmBoardHamAndChees.png",
     allergens: ['G', 'L']
   },
   {

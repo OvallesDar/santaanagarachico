@@ -11,7 +11,7 @@ export default function Dipear() {
     {
       title: "Almogrote con pan tostado para untar.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmAlmogrote.png",
       allergens: ['G', 'L']
     },
     {

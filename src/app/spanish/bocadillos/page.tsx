@@ -5,7 +5,7 @@ const bocadillos = [
     title: "Jamón Ibérico 50%, AVOE y orégano.",
     price: 4.5,
     secondPrice: 2.5,
-    src: "/santaana.png",
+    src: "/SmBocHam.png",
     allergens: ['G']
   },
   {

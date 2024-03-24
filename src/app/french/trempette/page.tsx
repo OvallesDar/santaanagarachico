@@ -11,7 +11,7 @@ export default function Trempette() {
     {
       title: "Almogrote avec tartinade de pain grillé.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmAlmogrote.png",
       allergens: ['G', 'L']
     },
     {

@@ -11,7 +11,7 @@ export default function Dips() {
     {
       title: "Almogrote con pane tostato spalmato.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmAlmogrote.png",
       allergens: ['G', 'L']
     },
     {

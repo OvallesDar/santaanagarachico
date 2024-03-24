@@ -11,7 +11,7 @@ export default function Dips() {
     {
       title: "Almogrote with toasted bread spread.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmAlmogrote.png",
       allergens: ['G', 'L']
     },
     {

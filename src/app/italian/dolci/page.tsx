@@ -4,7 +4,7 @@ const dolci = [
   {
     title: "Coulant al cioccolato con gelato alla cannella e polvere di noci.",
     price: 5.5,
-    src: "/santaana.png",
+    src: "/SmCoulant.png",
     allergens: ['G', 'L', 'F']
   },
   {

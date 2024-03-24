@@ -5,7 +5,7 @@ const sandwiches = [
     title: "Iberian ham 50%, AVOE and oregano.",
     price: 4.5,
     secondPrice: 2.5,
-    src: "/santaana.png",
+    src: "/SmBocHam.png",
     allergens: ['G']
   },
   {

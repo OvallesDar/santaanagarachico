@@ -22,7 +22,7 @@ const kasebrett = [
   {
     title: "50% iberischer Schinken und verschiedene Käsesorten aus Teno Alto.",
     price: 15.5,
-    src: "/santaana.png",
+    src: "/SmBoardHamAndChees.png",
     allergens: ['G', 'L']
   },
   {

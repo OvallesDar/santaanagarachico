@@ -4,7 +4,7 @@ const desserts = [
   {
     title: "Chocolate coulant with cinnamon ice cream and walnut powder.",
     price: 5.5,
-    src: "/santaana.png",
+    src: "/SmCoulant.png",
     allergens: ['G', 'L', 'F']
   },
   {

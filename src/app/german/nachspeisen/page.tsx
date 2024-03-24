@@ -4,7 +4,7 @@ const nachspeisen = [
   {
     title: "Schokoladen-Coulant mit Zimteis und Walnusspulver.",
     price: 5.5,
-    src: "/santaana.png",
+    src: "/SmCoulant.png",
     allergens: ['G', 'L', 'F']
   },
   {

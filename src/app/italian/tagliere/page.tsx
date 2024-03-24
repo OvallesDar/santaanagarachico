@@ -22,7 +22,7 @@ const tagliere = [
   {
     title: "50% di prosciutto iberico e tagliere di formaggi assortiti di Teno Alto.",
     price: 15.5,
-    src: "/santaana.png",
+    src: "/SmBoardHamAndChees.png",
     allergens: ['G', 'L']
   },
   {

@@ -11,7 +11,7 @@ export default function Dippen() {
     {
       title: "Almogrote mit getoastetem Brotaufstrich.",
       price: 6.5,
-      src: "/santaana.png",
+      src: "/SmAlmogrote.png",
       allergens: ['G', 'L']
     },
     {
