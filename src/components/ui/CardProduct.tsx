@@ -2,7 +2,7 @@
 import { cn } from "@/lib/utils";
 import { CircleFadingPlus } from "lucide-react";
 import Image from "next/image";
-import { useState } from "react";
+import { Suspense, useState } from "react";
 import Transtition from "./Transtition";
 
 interface CardProductProps {
@@ -88,8 +88,8 @@ export default function CardProduct({
             <Image
               src={`/menuImg${src.replace("/Sm", "/Xl")}`}
               alt={"Alternativo"}
-              width={700}
-              height={700}
+              width={500}
+              height={500}
             />
           </Transtition>
         </div>
